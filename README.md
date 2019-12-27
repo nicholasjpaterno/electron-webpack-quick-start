@@ -1,6 +1,8 @@
 # electron-webpack-svelte-quick-start
 > A bare minimum project structure to get started developing with [`electron-webpack`](https://github.com/electron-userland/electron-webpack) and svelte.
 
+# Featuring typescript and svelte.
+
 Thanks to the power of `electron-webpack` this template comes packed with...
 
 * Use of [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server) for development
